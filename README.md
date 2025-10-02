@@ -1,2 +1,3 @@
 # Telegram-Sticker-Maker
-WEBM based converter from any video and image file.
+A Python tool for creating static and animated WebM stickers compliant with Telegram's specifications. Easily craft custom stickers!
+
